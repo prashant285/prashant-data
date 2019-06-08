@@ -1,2 +1,2 @@
 # prashant-data
-It will contain all the data science projects I have done.
+To analyze Fuel economy data from 2008 to 2018 for different car models using Pandas, Numpy, Matplotlib. Data is provided by the Environmental Protection Agency.
